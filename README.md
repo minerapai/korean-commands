@@ -7,6 +7,12 @@
 - 필요한 모드: Fabric API
 - 설치: 서버에만 넣으면 됩니다. 접속하는 사람(클라이언트)은 이 모드가 없어도 됩니다.
 
+## 다운로드
+
+**[⬇ korean-commands-1.0.0.jar 다운로드](https://github.com/minerapai/korean-commands/releases/download/v1.0.0/korean-commands-1.0.0.jar)**
+
+받은 jar 파일을 마인크래프트(또는 서버) 폴더의 `mods` 폴더에 넣으면 됩니다. 다른 버전은 [Releases](https://github.com/minerapai/korean-commands/releases) 에 있습니다.
+
 ## 기능
 
 - 기본 한글 명령어: /업적 = /achv, /퀘스트 = /quest, /라이벌 = /quest rival, /타워 = /tower, /타워상점 = /tower shop, /타워순위 = /tower top, /집 = /home, /집설정 = /sethome, /집삭제 = /delhome, /집목록 = /homes, /알기술 = /tmegg, /이벤트 = /pokeevent, /포켓몬아이템 = /pokeitem
