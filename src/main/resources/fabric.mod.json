@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "kocommands",
+  "version": "${version}",
+  "name": "Korean Commands",
+  "description": "Korean aliases for other mods' commands (/업적 = /achv, /퀘스트 = /quest, ...), set in config/korean-commands.json. Clients do not need this mod.",
+  "license": "MIT",
+  "environment": "server",
+  "entrypoints": {
+    "main": [
+      "kr.kocommands.KoreanCommands"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "1.21.1",
+    "fabric-api": "*"
+  }
+}
